@@ -103,6 +103,11 @@ html{
     margin-right: auto;
 }
 
+#adresse a{
+    text-decoration: none;
+    color: black;
+}
+
 #colonne-d{
     float: right;
     width: 597px;
