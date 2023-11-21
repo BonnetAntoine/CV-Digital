@@ -86,9 +86,7 @@ header{
     width: 600px;
 }
 
-#Pro{
-    width: 300px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+.titre{
+    list-style-type: none;
 }
+
