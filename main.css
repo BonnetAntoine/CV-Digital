@@ -1,0 +1,94 @@
+body{
+    margin: 0%;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    text-align: center;
+    background-color: lightskyblue;  
+}
+
+#colonne-g{
+    background-color: aqua;
+    float: left;
+    width: 600px;
+}
+
+#Nom{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Poste{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Coordonnées{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Num{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Num a{
+    text-decoration: none;
+    color: black;
+}
+
+#Mail{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Mail a{
+    text-decoration: none;
+    color: black;
+}
+
+#Reseau{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Reseau a{
+    text-decoration: none;
+    color: black;
+}
+
+#adresse{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#colonne-d{
+    background-color: red;
+    float: right;
+    width: 600px;
+}
+
+#Pro{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
